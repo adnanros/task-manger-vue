@@ -4,7 +4,7 @@
       "id": "1",
       "title": "Task1",
       "date": "Septemper 21st",
-      "reminder": false
+      "reminder": true
     },
     {
       "title": "task3",
