@@ -25,7 +25,6 @@ export default {
   data(){
     return {
       task: {
-        id: Math.floor(Math.random()* 100000),
         title: '',
         date: '',
         reminder: false,
